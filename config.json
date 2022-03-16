@@ -8,9 +8,5 @@
   "dt_branch": "Android11_RUI2",
   "dt_remote": "github",
   "dt_path": "device/realme/RMX3357",
-  "device_code": "RMX3357",
-  "fix_product": true,
-  "fix_misscom": true,
-  "fix_busybox": false,
-  "fix_branch": "android-11"
+  "device_code": "RMX3357"
 }
