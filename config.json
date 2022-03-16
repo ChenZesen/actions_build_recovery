@@ -1,16 +1,16 @@
 {
-  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-9.0",
-  "git_username": "Pinkdoge",
-  "git_email": "42758990+Pinkdoge@users.noreply.github.com",
+  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git",
+  "twrp_branch": "twrp-11",
+  "git_username": "chenzesen",
+  "git_email": "2535875881@qq.com",
   "use_own_dt": true,
-  "dt_url": "pinkdoge/twrp_device_huawei_kiwi",
-  "dt_branch": "android-9.0",
+  "dt_url": "italorecife/twrp_device_GT_Neo_2T_RMX3357",
+  "dt_branch": "Android11_RUI2",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
+  "dt_path": "device/realme/RMX3357",
+  "device_code": "RMX3357",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-11"
 }
